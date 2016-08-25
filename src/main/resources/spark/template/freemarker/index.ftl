@@ -1,6 +1,6 @@
 <html>
 <body>
-Hello Yose
-<a href='contactme.ftl'>contact-me-link</a>
+Hello Yose <br>
+<a id="contact-me-link" href='contactme'>contact me</a>
 </body>
 </html>
